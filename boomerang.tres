@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="ItemData" format=3 uid="uid://c66lsps70847l"]
+
+[ext_resource type="Script" uid="uid://77rcrk7c21yd" path="res://ItemData.cs" id="1_nq6lk"]
+[ext_resource type="Texture2D" uid="uid://2kl1qjqive2f" path="res://icon_boomerang.tres" id="1_s3u3b"]
+
+[resource]
+script = ExtResource("1_nq6lk")
+DisplayName = "boomerang"
+Icon = ExtResource("1_s3u3b")
+metadata/_custom_type_script = "uid://77rcrk7c21yd"

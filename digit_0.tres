@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" format=3 uid="uid://cr4qq76gb2tfj"]
+
+[ext_resource type="Texture2D" uid="uid://dw6uj4h7wna7p" path="res://Game Boy _ GBC - The Legend of Zelda_ Link's Awakening _ DX - Miscellaneous - Weapons, Items & HUD.png" id="1_xobpg"]
+
+[resource]
+atlas = ExtResource("1_xobpg")
+region = Rect2(70, 22, 8, 8)

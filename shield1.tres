@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="ItemData" format=3 uid="uid://2l3kocqiw7lw"]
+
+[ext_resource type="Texture2D" uid="uid://c4hdmc4wjjshr" path="res://icon_shield1.tres" id="1_fv0lc"]
+[ext_resource type="Script" uid="uid://77rcrk7c21yd" path="res://ItemData.cs" id="1_qqbfg"]
+
+[resource]
+script = ExtResource("1_qqbfg")
+DisplayName = "shield1"
+Icon = ExtResource("1_fv0lc")
+metadata/_custom_type_script = "uid://77rcrk7c21yd"
